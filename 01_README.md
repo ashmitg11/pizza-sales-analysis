@@ -89,7 +89,9 @@ An interactive dashboard was developed to visualize and explore pizza sales perf
 
 Interactive dashboard walkthrough video included in:
 
-10_video/Dashboard_Demo.mp4
+## 🎥 Dashboard Demo
+
+[Watch Dashboard Demo](10_video/Dashboard_Demo.mp4)
 ---
 
 ## 📁 Repository Contents
